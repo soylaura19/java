@@ -1,0 +1,20 @@
+
+#include <iostream>
+
+using namespace std;
+int a=0;
+
+
+int main()
+    
+{
+    cout<<"¿Te gusta la escuela"<<endl;
+    cout<<"Si preciona la tec 5 y si no cualquier tecla"<<endl;
+    cin>>a;
+    if(a==5){
+        cout<<"hola futuro ing";
+    }else{
+    cout<<"esfuerzate mas tu puedes";
+    
+}
+} 
